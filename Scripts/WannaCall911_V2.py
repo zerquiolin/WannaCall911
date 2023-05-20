@@ -149,7 +149,7 @@ def wanna_call_911():
 messages = {
     "title": "WannaCall 911",
     "label": "Payment Code:",
-    "payment": "Your data has been compromised by Wanna Call 911 :)",
+    "payment": "Your data have been compromised by Wanna Call 911 :)",
     "information": "Your files have been encrypted, please provide the payment code to unlock them!"
 }
 #   Structure
